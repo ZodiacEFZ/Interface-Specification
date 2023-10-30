@@ -1,3 +1,5 @@
+<!-- DONT READ ME -->
+
 # Interface-Specification
 
 This file contains standard interfaced for Zodiac 6353.
